@@ -2,7 +2,7 @@
 
 Real Estate Client App written in Dart/Flutter.
 
-![AllenRealEstate](https://user-images.githubusercontent.com/20821711/117556957-e236e080-b033-11eb-9800-d8d9bc752f56.mp4)
+https://user-images.githubusercontent.com/20821711/117556957-e236e080-b033-11eb-9800-d8d9bc752f56.mp4
 
 ## Requirements
 - App works on both android and IOS devices ✅
