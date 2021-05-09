@@ -6,7 +6,7 @@ Real Estate Client App written in Dart/Flutter.
 
 
 <img src="screenshots/IphoneWifi.PNG" width="100" >            <img src="screenshots/IphoneW:OWifi.PNG" width="100" > 
-<img src="screenshots/AndroidWithWifi.JPG" width="100" >       <img src="screenshots/AndroidW:OWifi.JPG" width="100" height="100" > 
+<img src="screenshots/AndroidWithWifi.JPG" width="100" >       <img src="screenshots/AndroidW:OWifi.JPG" width="100" height="210" > 
 
 
 
