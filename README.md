@@ -14,9 +14,11 @@ https://user-images.githubusercontent.com/20821711/117556957-e236e080-b033-11eb-
 
 ### IOS Screenshots
 <img src="screenshots/IphoneWifi.PNG" width="100" >     <img src="screenshots/IphoneW:OWifi.PNG" width="100" > 
+<hr>
 
 ### Android Screenshots
 <img src="screenshots/AndroidWithWifi.JPG" width="100" height="220" >     <img src="screenshots/AndroidW:OWifi.JPG" width="100" height="220" > 
+<hr>
 
 ### Profile Screen Screenshot
 <img src="screenshots/ProfileScreen.png" width="100" >
